@@ -5,7 +5,7 @@ const textConfig = {
   text4: "Nếu em ko trả lời mà thoát ra tức là hết roiiii đó nhaaa :3",
   text5: "Còn lâu lew lew :3:3:3",
   text6: "Đúng rùii <3",
-  text7: "Nói lý do em hết ghét anh đi ~~!",
+  text7: "Vậy thứ 7 mình đi chơi nhaaa ~~!",
   text8: "Gửi cho anh <3",
   text9: "Vì anh ngoan à??",
   text10: "Anh biết mà Love you 3000 <3",
@@ -90,7 +90,7 @@ $(document).ready(function () {
     var n = "";
     var text = " " + textConfig.text9;
     var a = Array.from(text);
-    var textVal = $("#txtReason").val() ? $("#txtReason").val() : "";
+    var textVal = $("#txtReason").val() ? $("#txtReason").val() : "Your answer";
     var count = textVal.length;
     if (count > 0) {
       for (let i = 1; i <= count; i++) {

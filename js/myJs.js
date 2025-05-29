@@ -1,17 +1,17 @@
 const textConfig = {
-  text1: "He luu Mei!",
+  text1: "He luu em iuuu!",
   text2: "Anh có điều này muốn hỏi em.",
-  text3: "Em có thích anh không hihi^^!",
-  text4: "Nếu em ko trả lời mà thoát ra tức là đúng rùi đó nha :v",
-  text5: "Anh mơ à lew lew :3:3:3",
+  text3: "Em hết ghét anh chưaaaa???",
+  text4: "Nếu em ko trả lời mà thoát ra tức là hết roiiii đó nhaaa :3",
+  text5: "Còn lâu lew lew :3:3:3",
   text6: "Đúng rùii <3",
-  text7: "Nói lý do em thich anh di ~~!",
+  text7: "Nói lý do em hết ghét anh đi ~~!",
   text8: "Gửi cho anh <3",
-  text9: "Vi anh dang iu a??",
-  text10: "Anh biết mà hihi Love you 3000 <3",
+  text9: "Vì anh ngoan à??",
+  text10: "Anh biết mà Love you 3000 <3",
   text11:
-    "Hẹn em một buổi cafe nhó hihii <3",
-  text12: "Okii lunn <3",
+    "Hẹn em thứ 7 đi chơi nhó <3",
+  text12: "Vângggggg <3",
 };
 
 $(document).ready(function () {
